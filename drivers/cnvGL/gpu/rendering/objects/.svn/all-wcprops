@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/objects
+END
+primitive.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/objects/primitive.js
+END
+vertex.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/objects/vertex.js
+END
+fragment.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/objects/fragment.js
+END

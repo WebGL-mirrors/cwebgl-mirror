@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering
+END
+clipping.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/clipping.js
+END
+renderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/renderer.js
+END
+interpolate.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/interpolate.js
+END
+primitive.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/primitive.js
+END
+vertex.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/vertex.js
+END
+culling.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/culling.js
+END
+state.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/state.js
+END
+fragment.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/290/trunk/drivers/cnvGL/gpu/rendering/fragment.js
+END
